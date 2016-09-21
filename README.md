@@ -1,2 +1,2 @@
-# Why-there-is-no-CSS4---explaining-CSS-Levels
-Перевод статьи Рейчела Эндрю о спецификации CSS.
+# Почему нет и не будет CSS4 - толкование "CSS Levels"
+https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/
